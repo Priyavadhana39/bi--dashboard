@@ -1,0 +1,39 @@
+{
+  "pipeline_status": "SUCCESS",
+  "timestamp": "20261006_185350",
+  "duration_seconds": 0.857018,
+  "data_summary": {
+    "total_orders": 777,
+    "date_range_start": "2022-01-01 00:00:00",
+    "date_range_end": "2024-01-01 00:00:00",
+    "suppliers": 5,
+    "categories": 5,
+    "missing_delivery_date": "87",
+    "missing_defect_data": "136",
+    "total_quantity": "850551",
+    "total_cost": 45373696.39,
+    "total_savings": 3931126.4699999997
+  },
+  "results_summary": {
+    "suppliers_scored": 5,
+    "top_supplier": "Alpha_Inc",
+    "anomalies_detected": 39,
+    "anomaly_percentage": 5.019305019305019,
+    "forecasts_generated": 18,
+    "forecast_mae": 16243.75964869695,
+    "forecast_rmse": 18596.32959898015
+  },
+  "evaluation_summary": {
+    "total_components": 3,
+    "components_passed": 3,
+    "components_failed": 0,
+    "overall_status": "PASS"
+  },
+  "output_files": {
+    "supplier_scores": "supplier_scores_20261006_185350.csv",
+    "price_anomalies": "price_anomalies_20261006_185350.csv",
+    "demand_forecasts": "demand_forecasts_20261006_185350.csv",
+    "evaluation_report": "evaluation_report_20261006_185350.json"
+  },
+  "database_updated": false
+}

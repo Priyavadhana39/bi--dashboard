@@ -1,0 +1,7 @@
+{
+  "pipeline_status": "FAILED",
+  "timestamp": "20261005_231655",
+  "duration_seconds": 0.859022,
+  "error": "DataFrame must have DatetimeIndex",
+  "error_type": "ValueError"
+}

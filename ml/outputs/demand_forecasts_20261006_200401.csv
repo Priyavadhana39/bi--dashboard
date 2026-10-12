@@ -1,0 +1,19 @@
+forecast_date,category,predicted_quantity,model,lower_bound,upper_bound
+2024-02-01 18:30:00+00:00,Overall,31324,Exponential Smoothing,30853,31795
+2024-03-01 18:30:00+00:00,Overall,31084,Exponential Smoothing,30613,31555
+2024-04-01 18:30:00+00:00,Overall,30844,Exponential Smoothing,30373,31315
+2024-02-01 18:30:00+00:00,Electronics,6452,Exponential Smoothing,6252,6652
+2024-03-01 18:30:00+00:00,Electronics,6349,Exponential Smoothing,6149,6549
+2024-04-01 18:30:00+00:00,Electronics,6247,Exponential Smoothing,6047,6447
+2024-01-01 18:30:00+00:00,MRO,6251,Exponential Smoothing,6027,6475
+2024-02-01 18:30:00+00:00,MRO,6137,Exponential Smoothing,5913,6361
+2024-03-01 18:30:00+00:00,MRO,6023,Exponential Smoothing,5799,6247
+2024-02-01 18:30:00+00:00,Office Supplies,6793,Exponential Smoothing,6714,6872
+2024-03-01 18:30:00+00:00,Office Supplies,6753,Exponential Smoothing,6674,6832
+2024-04-01 18:30:00+00:00,Office Supplies,6712,Exponential Smoothing,6633,6791
+2024-01-01 18:30:00+00:00,Packaging,8137,Exponential Smoothing,7910,8364
+2024-02-01 18:30:00+00:00,Packaging,8253,Exponential Smoothing,8026,8480
+2024-03-01 18:30:00+00:00,Packaging,8369,Exponential Smoothing,8142,8596
+2024-01-01 18:30:00+00:00,Raw Materials,8728,Exponential Smoothing,7891,9565
+2024-02-01 18:30:00+00:00,Raw Materials,9155,Exponential Smoothing,8318,9992
+2024-03-01 18:30:00+00:00,Raw Materials,9582,Exponential Smoothing,8745,10419

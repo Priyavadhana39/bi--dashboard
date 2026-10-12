@@ -1,0 +1,6 @@
+supplier_id,supplier,supplier_score,supplier_rank,performance_category,total_orders,total_cost,total_savings,avg_savings_percentage,avg_lead_time_days,avg_defect_rate,compliance_rate,data_completeness_pct
+1,Alpha_Inc,80.8,1,Excellent,141,7839712.25,688920.49,8.21,10.61,2.36,93.62,81.56
+2,Beta_Supplies,24.7,4,Average,156,9858665.9,889940.89,7.83,11.27,9.78,75.64,88.14
+3,Delta_Logistics,7.75,5,Poor,171,9236240.47,781976.49,7.81,10.85,14.63,60.82,81.29
+4,Epsilon_Group,70.09,3,Good,166,9851156.06,844980.18,8.04,10.87,3.07,98.19,87.35
+5,Gamma_Co,72.7,2,Good,143,8587921.71,725308.42,7.98,10.19,5.02,86.01,90.21
